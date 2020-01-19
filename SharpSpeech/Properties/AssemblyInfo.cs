@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SharpSpeech")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .NET wrapper for the Universal Speech Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Nuno Soft")]
 [assembly: AssemblyProduct("SharpSpeech")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright ©  2020 Nuno Soft")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
